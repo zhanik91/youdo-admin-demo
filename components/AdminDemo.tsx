@@ -23,7 +23,7 @@ const langs:any = {
     common: { search: "Поиск…", light: "Светлая", dark: "Тёмная", itemsPerPage: "На странице", total: "Всего", page: "Стр.", of: "из" },
   },
   kk: {
-    brand: "Админ Демо",
+    brand: "YouDo Admin",
     nav: { dashboard: "Панель", catalog: "Каталог", kyc: "Тексеру", payments: "Төлемдер", settings: "Баптаулар", analytics: "Аналитика" },
     actions: { create: "Жаңа жазба", export: "CSV экспорт", import: "CSV импорт", bulkDelete: "Таңдалғанды жою", save: "Сақтау", approve: "Бекіту", reject: "Қайтару", view: "Ашу", logout: "Шығу" },
     policy: {
