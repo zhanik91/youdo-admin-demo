@@ -4,7 +4,7 @@ import React, { useMemo, useState, useEffect, createContext, useContext } from "
 // I18n
 const langs:any = {
   ru: {
-    brand: "Admin Demo",
+    brand: "YouDo Admin",
     nav: { dashboard: "Панель", catalog: "Каталог", kyc: "KYC", payments: "Платежи", settings: "Настройки", analytics: "Аналитика" },
     actions: { create: "Новая запись", export: "Экспорт CSV", import: "Импорт CSV", bulkDelete: "Удалить выбранные", save: "Сохранить", approve: "Одобрить", reject: "Отклонить", view: "Открыть", logout: "Выйти" },
     policy: {
